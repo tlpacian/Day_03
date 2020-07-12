@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void ft_ft(void)
+{
+	int  nbr;
+	nbr = 42;
+}
+
+int main(void)
+{
+	ft_ft();
+	return 0;
+}
